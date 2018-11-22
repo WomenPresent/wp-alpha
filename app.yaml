@@ -1,0 +1,4 @@
+runtime: nodejs8
+env_variables:
+  AIRTABLE_API_KEY: 'keyha4REytCHjgdKC'
+  AIRTABLE_BASE: 'appYbKsRlBde6GxA7'

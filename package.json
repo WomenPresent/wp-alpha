@@ -1,0 +1,28 @@
+{
+  "name": "wp-alpha",
+  "version": "1.0.0",
+  "description": "WomenPresent alpha functionality",
+  "repository": "https://github.com/GoogleCloudPlatform/nodejs-getting-started",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "WomenPresent",
+  "contributors": [
+    {
+      "name": "Susan Pierce",
+      "email": "susan@womenpresent.com"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.5.7",
+    "airtable-node": "^0.1.19",
+    "body-parser": "^1.18.3",
+    "config": "^2.0.1",
+    "express": "^4.16.4",
+    "nconf": "^0.10.0",
+    "pug": "^2.0.3"
+  }
+}
